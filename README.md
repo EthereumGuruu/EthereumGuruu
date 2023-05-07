@@ -3,7 +3,7 @@
 When I first heard about Bitcoin, back in 2010, it was still very confusing to me. I mean, I get it:
 if people agree that it has value, then it has value. But why would I agree with these people in the
 idea that this thing has value. I already had to agree with a lot more people that dollars have value
-and I was already not convinced. Still, the idea was very appealing and I wrote articles abou it. My
+and I was already not convinced. Still, the idea was very appealing and I wrote articles about it. My
 take at the time was: Bitcoin itself might be just a fad but blockchain technology is here to stay.
 
 Ok clearly I was wrong. I'm not sure why though... I honestly still don't see the point of Bitcoin
