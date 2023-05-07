@@ -11,7 +11,7 @@ especially now that we have all these objectively better blockchain networks.
 
 When I heard about Ethereum in 2016 however, and learned about idea of deploying code to this distributed
 computer and would be up forever. That I'll just have to pay some ETH for deployment and people would have
-to pay some to interact, I immediately saw the value. Not only there was a concrete added value but also,
+to pay some to interact, I immediately saw the value. Not only was there a concrete added value but also
 a strong incentive for owning ETH, since I'm gonna need a bunch if I want to deploy all my contracts and
 interact with others.
 
