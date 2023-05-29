@@ -19,7 +19,13 @@ Anyway... I just wanted to share that little piece of my mind, and maybe also br
 the space 😄.
 
 Now to be perfectly honest, I only started transitionning from web developer to smart contract developer 2
-years later, when the ICO boom shot the price of Ethereum up 2000%
+years later, when the ICO boom shot the price of Ethereum up 2000%. I'm passionate about this topic but
+getting rich will always be a strong motivator too. That said, I have very strict standards about how I am
+to earn my money. I will accept missions for projects that I think have a good impact on the ecosystem, bonus
+points if it's a tech-challenging issue, and if you really want me in, just say "it's impossible to do it".
+
+I read DMs on Twitter: [@EthereumGuruu](https://twitter.com/EthereumGuruu)
+
 <!---
 EthereumGuruu/EthereumGuruu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
